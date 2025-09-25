@@ -148,3 +148,4 @@ func GetEmailBatch(db *sql.DB, params GetEmailBatchQueryParams) ([]EmailEntry, e
 
 	return emails, nil
 }
+

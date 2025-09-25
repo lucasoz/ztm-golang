@@ -128,3 +128,4 @@ func Serve(db *sql.DB, bind string) {
 		log.Fatalf("gRPC server error: %v\n", err)
 	}
 }
+

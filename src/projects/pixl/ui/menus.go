@@ -147,3 +147,4 @@ func SetupMenus(app *AppInit) {
 	mainMenu := fyne.NewMainMenu(menus)
 	app.PixlWindow.SetMainMenu(mainMenu)
 }
+

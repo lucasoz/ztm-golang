@@ -75,3 +75,4 @@ func main() {
 	// automate(&ToxicWaste{300}) // Won't work!
 }
 
+

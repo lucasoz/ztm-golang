@@ -33,3 +33,4 @@ func (pxCanvas *PxCanvas) MouseDown(ev *desktop.MouseEvent) {
 	brush.TryBrush(pxCanvas.appState, pxCanvas, ev)
 }
 func (pxCanvas *PxCanvas) MouseUp(ev *desktop.MouseEvent) {}
+

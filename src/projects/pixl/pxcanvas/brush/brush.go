@@ -65,3 +65,4 @@ func TryPaintPixel(appState *apptype.State, canvas apptype.Brushable, ev *deskto
 	}
 	return false
 }
+

@@ -35,3 +35,4 @@ func (w *Worklist) Finalize(numWorkers int) {
 		w.Add(Entry{""})
 	}
 }
+

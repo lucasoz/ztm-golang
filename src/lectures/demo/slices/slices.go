@@ -26,3 +26,4 @@ func main() {
 	printSlice("Remaining locations", route)
 }
 
+

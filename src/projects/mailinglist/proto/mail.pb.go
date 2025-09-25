@@ -662,3 +662,4 @@ func file_proto_mail_proto_init() {
 	file_proto_mail_proto_goTypes = nil
 	file_proto_mail_proto_depIdxs = nil
 }
+

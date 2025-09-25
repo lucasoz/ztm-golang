@@ -9,3 +9,4 @@ func (swatch *Swatch) MouseDown(ev *desktop.MouseEvent) {
 }
 
 func (swatch *Swatch) MouseUp(ev *desktop.MouseEvent) {}
+

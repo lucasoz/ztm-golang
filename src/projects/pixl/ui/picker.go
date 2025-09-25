@@ -16,3 +16,4 @@ func SetupColorPicker(app *AppInit) *fyne.Container {
 	})
 	return container.NewVBox(picker)
 }
+

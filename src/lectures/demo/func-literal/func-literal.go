@@ -32,3 +32,4 @@ func main() {
 	fmt.Println(compute(3, 3, mul))
 }
 
+

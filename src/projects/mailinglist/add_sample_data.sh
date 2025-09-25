@@ -7,3 +7,4 @@ do
     --header 'Content-Type: application/json' \
     --data-raw '{"Email":"'$email'"}'
 done
+

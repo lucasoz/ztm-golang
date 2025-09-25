@@ -30,3 +30,4 @@ After installation completes, you can run a benchmark with `k6 run bench.js`.
 
 `Keiko` also uses `SQLite`, which requires `gcc`. If you can run `Pixl`, then you are good to Go.
 
+

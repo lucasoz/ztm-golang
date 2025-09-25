@@ -45,3 +45,4 @@ func FindInFile(path string, find string) *Results {
 		return &results
 	}
 }
+

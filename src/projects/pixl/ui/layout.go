@@ -12,3 +12,4 @@ func Setup(app *AppInit) {
 	app.PixlWindow.SetContent(appLayout)
 }
 
+

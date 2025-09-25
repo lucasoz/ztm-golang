@@ -13,3 +13,4 @@ type AppInit struct {
 	State      *apptype.State
 	Swatches   []*swatch.Swatch
 }
+

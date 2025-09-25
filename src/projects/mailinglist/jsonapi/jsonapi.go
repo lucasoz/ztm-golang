@@ -167,3 +167,4 @@ func Serve(db *sql.DB, bind string) {
 		log.Fatalf("JSON server error: %v", err)
 	}
 }
+

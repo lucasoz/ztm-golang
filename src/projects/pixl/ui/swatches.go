@@ -31,3 +31,4 @@ func BuildSwatches(app *AppInit) *fyne.Container {
 
 	return container.NewGridWrap(fyne.NewSize(20, 20), canvasSwatches...)
 }
+

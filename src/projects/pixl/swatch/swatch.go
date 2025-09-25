@@ -42,3 +42,4 @@ func (swatch *Swatch) CreateRenderer() fyne.WidgetRenderer {
 		parent:  swatch,
 	}
 }
+

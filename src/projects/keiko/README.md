@@ -73,3 +73,4 @@ Once some low-performing functions have been identified, write code to optimize 
 * Cache results of functions that run slowly
 * Skip unneeded operations
 
+

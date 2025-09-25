@@ -40,3 +40,4 @@ func (renderer *SwatchRenderer) Objects() []fyne.CanvasObject {
 }
 
 func (renderer *SwatchRenderer) Destroy() {}
+

@@ -144,3 +144,4 @@ func (pxCanvas *PxCanvas) NewDrawing(cols, rows int) {
 	pixelData := NewBlankImage(cols, rows, color.NRGBA{128, 128, 128, 255})
 	pxCanvas.LoadImage(pixelData)
 }
+

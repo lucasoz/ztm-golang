@@ -78,3 +78,4 @@ func main() {
 	player.addEnergy(10)
 }
 
+

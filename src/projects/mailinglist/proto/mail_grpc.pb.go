@@ -247,3 +247,4 @@ var MailingListService_ServiceDesc = grpc.ServiceDesc{
 	Streams:  []grpc.StreamDesc{},
 	Metadata: "proto/mail.proto",
 }
+
