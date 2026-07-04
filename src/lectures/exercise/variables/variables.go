@@ -23,5 +23,17 @@
 package main
 
 func main() {
-}
+	var favoriteColor = "yellow"
+	birthYear, age := 1998, 28
+	var (
+		firstInitial = "L"
+		lastInitial  = "M"
+	)
+	var ageInDays int
+	ageInDays = age * 365
 
+	println("My favorite color is", favoriteColor)
+	println("I was born in", birthYear, "and I am", age, "years old")
+	println("My initials are", firstInitial, lastInitial)
+	println("I am", ageInDays, "days old")
+}
